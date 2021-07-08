@@ -1,2 +1,4 @@
 # hello-world
-First repository for study
+Hi humans
+Alida here, I like python and js.
+Im working in erpnext.
